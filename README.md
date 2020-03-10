@@ -1,3 +1,5 @@
+Após clonar o projeto rode o comando `npm install` para baixar as dependências do projeto
+
 # GerenciadorDeTarefas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
